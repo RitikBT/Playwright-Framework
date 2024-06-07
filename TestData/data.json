@@ -1,0 +1,14 @@
+{
+    "LoginData" : {
+    "userName" : "Admin",
+    "userPassword" : "admin123"
+
+},
+
+"invalidData" : {
+    "userName" : "Admin1",
+    "userPassword" : "admin123"
+
+}
+
+}
